@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @click-b8
-- 👀 I’m interested in ... ENGINEERING & AI
-- 🌱 I’m currently learning ... PYTHON, MATLAB, Micro-fluidcs, Intermidiate Strength of Materials, Heat Transfer, Engineering Materials, Statistics 
-- 💞️ I’m looking to collaborate on ... AI and engineering projects
-- 📫 How to reach me ... Instagram: @noahbrande
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Noah Brande a Student at FAU earning a Bachelors Degree in Mechanical Engineering & Intern at SurGenTec a Minimally Invasive Medical Device Company.
+- 👀 I’m interested in Autonomy, Robotics, Biomaterials, Bio-/Mechanical Engineering & AI
+   I’m currently hands on in Projects using PYTHON, MATLAB, SLURM, Athene, MuJuCo, Unity, NVIDIA Jetson Orin
+- I’m looking to collaborate AI and Robotics projects and solving problems efficiently
+- 📫 How to reach me ... Instagram/LinkedIn: @noahbrande
 - ⚡ Fun fact: ... Acceleration due to gravity varies across the longitude of earth.
 
 <!---
